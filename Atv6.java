@@ -11,7 +11,6 @@ public class Atv6 {
 
         System.out.println("Digite um numero:");
         numero = scanner.nextInt();
-
         System.out.printf("ANTECESSOR = %d%n", numero-1);
         System.out.printf("SUCESSOR   = %d", numero+1);
     }
