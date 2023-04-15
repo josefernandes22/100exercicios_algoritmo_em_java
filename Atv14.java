@@ -5,7 +5,7 @@ sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.*/
 
 import java.util.Scanner;
 
-public class atv14 {
+public class Atv14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double kmRodados,valorParaPagar;
